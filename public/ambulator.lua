@@ -1,5 +1,5 @@
 local gameCode = ''
-local target = '$HOSTNAME'
+local target = 'https://mirage-ambulator.vercel.app'
 
 function encodeURI(str)
     if (str) then
